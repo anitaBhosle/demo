@@ -2,51 +2,51 @@
   "data":[
   {
     "id": 1,
-    "title": "थाली पीठ भाजणी ",
-    "qty": "१ किलो ",
-    "price": "२२०/-"
+    "title": "Thalipeeth Bhajani ",
+    "qty": "1 kg. ",
+    "price": "220/-"
   },
   {
     "id": 2,
-    "title": "उपवास भाजणी ",
-    "qty": "१ किलो ",
-    "price": "२६०/-"
+    "title": "Upvaas Bhajani ",
+    "qty": "1 Kg. ",
+    "price": "260/-"
   },
   {
     "id": 3,
-    "title": "राजगीरा पीठ  ",
-    "qty": "१ किलो ",
-    "price": "२००/-"
+    "title": "Rajgira Peeth  ",
+    "qty": "1 kg.",
+    "price": "200/-"
   },
   {
     "id": 4,
-    "title": "गहू पीठ ",
-    "qty": "१ किलो ",
-    "price": "५०/-"
+    "title": "Gahu Peeth ",
+    "qty": "1 kg.",
+    "price": "50/-"
   },
   {
     "id": 5,
-    "title":"तांदूळ पीठ ",
-    "qty": "१ किलो ",
-    "price": "५०/-"
+    "title":"Tandul Peeth ",
+    "qty": "1 kg. ",
+    "price": "50/-"
   },
   {
     "id": 6,
-    "title": "ज्वारी पीठ ",
-    "qty": "१ किलो ",
-    "price": "६०/- "
+    "title": "Jwari Peeth ",
+    "qty": "1 kg.",
+    "price": "60/-"
   },
   {
     "id": 7,
-    "title": "बेसन पीठ ",
-    "qty": "१ किलो ",
-    "price": "१००/-"
+    "title": "Besan Peeth ",
+    "qty": "1 kg.",
+    "price": "100/-"
   },
   {
     "id": 8,
-    "title": "उवरी पीठ ",
-    "qty": "१ किलो ",
-    "price": "१६०/-"
+    "title": "Vari Peeth ",
+    "qty": "1 kg.",
+    "price": "160/-"
   }
 ]
 }
