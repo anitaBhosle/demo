@@ -49,3 +49,55 @@
   }
 ]
 
+//English Json
+
+[
+  {
+    "id": 1,
+    "title": "Thalipeeth Bhajani ",
+    "qty": "1 kg. ",
+    "price": "220/-"
+  },
+  {
+    "id": 2,
+    "title": "Upvaas Bhajani ",
+    "qty": "1 Kg. ",
+    "price": "260/-"
+  },
+  {
+    "id": 3,
+    "title": "Rajgira Peeth  ",
+    "qty": "1 kg.",
+    "price": "200/-"
+  },
+  {
+    "id": 4,
+    "title": "Gahu Peeth ",
+    "qty": "1 kg.",
+    "price": "50/-"
+  },
+  {
+    "id": 5,
+    "title":"Tandul Peeth ",
+    "qty": "1 kg. ",
+    "price": "50/-"
+  },
+  {
+    "id": 6,
+    "title": "Jwari Peeth ",
+    "qty": "1 kg.",
+    "price": "60/-"
+  },
+  {
+    "id": 7,
+    "title": "Besan Peeth ",
+    "qty": "1 kg.",
+    "price": "100/-"
+  },
+  {
+    "id": 8,
+    "title": "Vari Peeth ",
+    "qty": "1 kg.",
+    "price": "160/-"
+  }
+]
