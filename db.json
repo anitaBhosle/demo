@@ -5,49 +5,57 @@
     "id": 1,
     "title": "थाली पीठ भाजणी ",
     "qty": "१ किलो ",
-    "price": "२२०/-"
+    "price": "२२०/-",
+    "image":"https://i.ytimg.com/vi/OayAsfSTVVk/hqdefault.jpg"
   },
   {
     "id": 2,
     "title": "उपवास भाजणी ",
     "qty": "१ किलो ",
-    "price": "२६०/-"
+    "price": "२६०/-",
+    "image":"https://i.ytimg.com/vi/hbh54D5badg/maxresdefault.jpg"
   },
   {
     "id": 3,
     "title": "राजगीरा पीठ  ",
     "qty": "१ किलो ",
-    "price": "२००/-"
+    "price": "२००/-",
+    "image":"https://images-na.ssl-images-amazon.com/images/I/51ROFrqZOTL.jpg"
   },
   {
     "id": 4,
     "title": "गहू पीठ ",
     "qty": "१ किलो ",
-    "price": "५०/-"
+    "price": "५०/-",
+    "image":"https://merafarmer.com/250-home_default/khapli-wheat-flour.jpg"
   },
   {
     "id": 5,
     "title":"तांदूळ पीठ ",
     "qty": "१ किलो ",
-    "price": "५०/-"
+    "price": "५०/-",
+    "image":"https://img-static.popxo.com/tr:w-600,rt-auto,q-40/app_photos/images/3305/original/2._Benefits_Of_Rice_Flour_In_Marathi.jpg"
   },
   {
     "id": 6,
     "title": "ज्वारी पीठ ",
     "qty": "१ किलो ",
-    "price": "६०/- "
+    "price": "६०/- ",
+    "image":"https://www.katdarefoods.in/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-02-at-9.42.29-PM-1.jpeg"
   },
   {
     "id": 7,
     "title": "बेसन पीठ ",
     "qty": "१ किलो ",
-    "price": "१००/-"
+    "price": "१००/-",
+    "image":"https://store2doorindia.com/wp-content/uploads/2020/07/Besan-Peeth-170x185.jpg"
   },
   {
     "id": 8,
-    "title": "उवरी पीठ ",
+    "title": "वरी पीठ ",
     "qty": "१ किलो ",
-    "price": "१६०/-"
+    "price": "१६०/-",
+    "image":"https://tiimg.tistatic.com/fp/1/002/229/vari-peeth-576.jpg"
   }
 ]
 }
